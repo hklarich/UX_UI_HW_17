@@ -1,6 +1,6 @@
 body {
     margin: 0%;
-    font-weight: 400;
+    font-weight: 300;
 }
 
 .container {
@@ -21,11 +21,13 @@ header::after {
 .logo1 {
     float: left;
     padding: 30px 0 15px;
+    margin-left: 30px;
 }
 
 .logo2 {
     float: left;
     padding: 30px 0 15px;
+    margin-left: 30px;
 }
 
 .logo .logo2 {
@@ -94,8 +96,20 @@ hr.solid {
     margin: 0;
 }
 
+.heroImg {
+    position: relative;
+    top: 50px;
+    left: 120px;
+}
 
+h1 {
+    font-family: Koralle NF;
+    font-size: 48px;
+}
 
+h2 {
+    font-family: Koralle NF;
+}
 
 
 
